@@ -18,6 +18,7 @@ class Solution:
                 return False
         if len(pattern) != len(words):
             return False
+
         i = 0
         for letter in pattern:
             if letter not in mp:
@@ -25,5 +26,5 @@ class Solution:
             elif mp[letter] != words[i]:
                 return False
             i += 1
-            print(mp)
+
         return True
