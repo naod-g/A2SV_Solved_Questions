@@ -18,6 +18,7 @@ class Solution:
                     if 0 <= nr < row_count and 0 <= nc < col_count:
                         total += img[nr][nc]
                         count += 1
+                        
                 res[row][col] = total // count
                 
 
