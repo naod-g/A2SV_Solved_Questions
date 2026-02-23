@@ -1,0 +1,33 @@
+def list_(): return list(map(int, input().split()))
+def str_(): return list(map(str, input().split()))
+
+t = int(input())
+
+for _ in range(t):
+    n = int(input())
+    a = list_()
+    b = list_()
+
+    res = []
+
+    for i in range(len(a)):
+        if a[i] > b[i]:
+            a[i], b[i] = b[i], a[i]
+            res.append([3, i+1])
+    
+    for i in range(n):
+        for j in range(n - i -1):
+            if a[j] > a[j+1]:
+                a[j], a[j+1] = a[j+1], a[j]
+                res.append([1, j+1])
+
+    for i in range(n):
+        for j in range(n - i -1):
+            if b[j] > b[j+1]:
+                b[j], b[j+1] = b[j+1], b[j]
+                res.append([2, j+1])
+
+    
+    print(len(res))
+    for a,b in res:
+        print(a, b)
