@@ -1,25 +1,21 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
         res = []
-        ends = []
-        revs = s[::-1]
+        mp = defaultdict(int)
+        for i, ch in enumerate(s):
+            mp[ch] = i
 
-        for ch in set(s):
-            ends.append([s.index(ch), len(s) - revs.index(ch) - 1])
-        ends.sort()
+        i = 0
+        while i < len(s):
+            start = i
+            right = mp[s[start]]
 
-
-        start, end = ends[0]
-        for left, right in ends[1:]:
-            if start <= left <= end:
-                end = max(end, right)
-            else:
-                res.append(end - start + 1)
-                start = left
-                end = right
-        res.append(end - start + 1)
+            while i < right:
+                right = max(right, mp[s[i]])
+                i += 1
+            res.append(right - start + 1)
+            i += 1
+            
         return res
-        
-
-
+            
             
