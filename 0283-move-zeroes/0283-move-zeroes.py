@@ -3,12 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        seek = 0
-        placeholder = 0
+        write = 0
 
-        while seek < len(nums) and placeholder < len(nums):
-            if nums[seek] != 0:
-                nums[seek], nums[placeholder] = nums[placeholder], nums[seek]
-                placeholder += 1
-            seek += 1
+        for read in range(len(nums)):
+            if nums[read] != 0:
+                nums[read], nums[write] = nums[write], nums[read]
+                write += 1
+
+
         
