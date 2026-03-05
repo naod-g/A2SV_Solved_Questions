@@ -19,3 +19,4 @@ class Solution:
             count += nums[i] * pre[i]
 
         return count % (10**9 + 7)
+
