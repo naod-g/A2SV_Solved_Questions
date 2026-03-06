@@ -24,4 +24,3 @@ class Solution:
 
         curr.next = even
         return odd
-        
