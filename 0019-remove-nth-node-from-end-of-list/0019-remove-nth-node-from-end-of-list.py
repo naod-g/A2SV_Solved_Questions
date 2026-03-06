@@ -5,21 +5,21 @@
 #         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        k = 0
+        length = 0
         curr = head
         while curr:
-            k += 1
+            length += 1
             curr = curr.next
 
-        if k == 1:
+        if length == 1:
             return None
-        if k == n:
+        if length == n:
             return head.next
 
         curr = head
-        for i in range(1, k-n):
+        for i in range(1, length-n):
             curr = curr.next
             
-        curr.next = curr.next.next  if curr.next else None
+        curr.next = curr.next.next if curr.next else None
 
         return head
