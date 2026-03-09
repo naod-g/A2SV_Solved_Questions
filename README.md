@@ -68,6 +68,7 @@
 | [0020-valid-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
