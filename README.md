@@ -8,6 +8,7 @@
 | [0238-product-of-array-except-self](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -47,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -113,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1598-crawler-log-folder](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
@@ -133,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
