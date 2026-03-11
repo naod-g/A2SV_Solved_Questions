@@ -73,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [1598-crawler-log-folder](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -96,6 +97,7 @@
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1598-crawler-log-folder](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
