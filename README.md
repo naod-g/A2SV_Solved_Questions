@@ -16,6 +16,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -83,6 +84,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -153,8 +156,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
