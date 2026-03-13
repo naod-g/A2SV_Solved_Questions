@@ -1,11 +1,11 @@
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
-        have = {5:0, 10:0, 20: 0}
+        have = {5:0, 10:0}
+
         for bill in bills:
-            print(bill, have)
             if bill == 5:
                 have[5] += 1
-                continue
+
             elif bill == 10:
                 if have[5] < 1:
                     return False
@@ -13,22 +13,12 @@ class Solution:
                     have[5] -= 1
                     have[10] += 1
             else:
-                if have[5] < 1:
-                    return False
-                elif have[10] >= 1 and have[5] < 1:
-                    return False
-                elif have[5] == 1 and have[10] <= 0:
-                    return False
-
-                if have[5] >= 1 and have[10] >= 1:
+                if have[10] > 0 and have[5] > 0:
                     have[5] -= 1
                     have[10] -= 1
                     continue
-                elif have[5] >= 3:
+                elif have[5] > 2:
                     have[5] -= 3
                 else:
                     return False
-            
         return True
-
-
