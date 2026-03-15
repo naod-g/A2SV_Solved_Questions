@@ -11,7 +11,7 @@ class Solution:
             if a <= b and count_a < n:
                 cost += a
                 count_a += 1
-            elif a > b and count_b < n:
+            elif a >= b and count_b < n:
                 cost += b
                 count_b += 1
             else:
