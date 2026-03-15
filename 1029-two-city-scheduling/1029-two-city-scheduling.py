@@ -5,13 +5,13 @@ class Solution:
         count_a = 0
         count_b = 0
         costs.sort(key = lambda x: abs(x[0]-x[1]), reverse = True)
-        print(costs)
+
 
         for a, b in costs:
             if a <= b and count_a < n:
                 cost += a
                 count_a += 1
-            elif a >= b and count_b < n:
+            elif a > b and count_b < n:
                 cost += b
                 count_b += 1
             else:
