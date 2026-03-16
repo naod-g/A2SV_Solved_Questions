@@ -15,6 +15,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0641-design-circular-deque](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0739-daily-temperatures](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -64,6 +65,7 @@
 | [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## String
@@ -123,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
