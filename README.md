@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -260,6 +262,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -283,6 +286,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -299,6 +303,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
