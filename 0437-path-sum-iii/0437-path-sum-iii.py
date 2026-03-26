@@ -6,24 +6,23 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
-        _map = defaultdict(int)
-        _map[0] = 1
-        def helper(node,running_sum,_map):
-            if not node:
-                return 0
-            
-            running_sum+= node.val
-            
-            count = 0
-            count += _map[running_sum-targetSum] 
-            _map[running_sum]+=1
-            count+= ( 
-                 helper(node.left,running_sum,_map)+
-                 helper(node.right,running_sum,_map)
-                   )
-            
-            _map[running_sum]-=1
-            return count
+        self.res = 0
 
-        return helper(root,0,_map)
-        
+        def dfs(node, path):
+            if not node: return
+            path += node.val
+
+            if path == targetSum:
+                self.res += 1
+            dfs(node.left, path)
+            dfs(node.right, path)
+
+        def traverse(node):
+            if not node: return
+
+            dfs(node, 0)
+            if node.left: traverse(node.left)
+            if node.right: traverse(node.right)
+            
+        traverse(root)
+        return self.res
