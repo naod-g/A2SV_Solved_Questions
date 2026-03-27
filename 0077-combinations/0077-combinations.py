@@ -7,7 +7,6 @@ class Solution:
                 if len(curr) == k:
                     res.append(curr[:])
                 return
-
             back(i+1)
 
             curr.append(i)
