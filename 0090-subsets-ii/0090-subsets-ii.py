@@ -6,7 +6,7 @@ class Solution:
 
         def back(i):
             if i >= len(nums):
-                res.add(tuple(sorted(curr[:])))
+                res.add(tuple(curr[:]))
                 return
 
             back(i+1)
@@ -14,5 +14,6 @@ class Solution:
             back(i+1)
             curr.pop()
 
+        nums.sort()
         back(0)
         return list(res)
