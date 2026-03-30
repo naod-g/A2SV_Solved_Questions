@@ -123,6 +123,7 @@
 | [0020-valid-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1598-crawler-log-folder](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1763-longest-nice-substring](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -197,6 +198,7 @@
 | [0078-subsets](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
