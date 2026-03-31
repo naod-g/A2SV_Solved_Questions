@@ -27,6 +27,7 @@
 | [0739-daily-temperatures](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0860-lemonade-change](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
+| [0877-stone-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -103,6 +104,7 @@
 | [0055-jump-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@
 | [0509-fibonacci-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0877-stone-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1922-count-good-numbers](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
@@ -365,4 +368,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
