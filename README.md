@@ -42,6 +42,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -108,6 +109,7 @@
 | [0486-predict-the-winner](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -293,6 +296,7 @@
 | [0342-power-of-four](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1763-longest-nice-substring](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
+| [2305-fair-distribution-of-cookies](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -384,4 +388,8 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 <!---LeetCode Topics End-->
