@@ -129,6 +129,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0306-additive-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0306-additive-number/) | Medium |
 | [0394-decode-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0942-di-string-match](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0942-di-string-match/) | Easy |
@@ -208,6 +209,7 @@
 | [0077-combinations](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0306-additive-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0306-additive-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
