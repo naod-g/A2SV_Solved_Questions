@@ -12,10 +12,7 @@ class Solution:
                 res.append(right)
                 right -= 1
 
-        if s[-1] == 'I':
-            res.append(left)
-        else:
-            res.append(right)
+        res.append(right)
 
 
         return res
