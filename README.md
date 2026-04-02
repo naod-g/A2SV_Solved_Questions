@@ -305,6 +305,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -392,4 +393,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
