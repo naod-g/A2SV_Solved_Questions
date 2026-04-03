@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
@@ -309,6 +310,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0275-h-index-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
