@@ -114,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
+| [0326-power-of-three](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
@@ -168,6 +169,7 @@
 | [0050-powx-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
