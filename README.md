@@ -20,6 +20,7 @@
 | [0324-wiggle-sort-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0330-patching-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0486-predict-the-winner](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -199,6 +200,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0475-heaters](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -207,6 +209,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0475-heaters](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0942-di-string-match](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0942-di-string-match/) | Easy |
@@ -314,6 +317,7 @@
 | [0275-h-index-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
+| [0475-heaters](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0704-binary-search](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
