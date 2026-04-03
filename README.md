@@ -34,6 +34,7 @@
 | [0942-di-string-match](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0942-di-string-match/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1029-two-city-scheduling](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -310,6 +311,7 @@
 | [0278-first-bad-version](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
