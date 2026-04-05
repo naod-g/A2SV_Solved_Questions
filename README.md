@@ -140,6 +140,7 @@
 | [0020-valid-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0306-additive-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0306-additive-number/) | Medium |
 | [0394-decode-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0856-score-of-parentheses](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0942-di-string-match](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0942-di-string-match/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -265,6 +266,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
