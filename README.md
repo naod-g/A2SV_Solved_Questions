@@ -120,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
+| [0258-add-digits](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
@@ -266,6 +267,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Counting
@@ -414,4 +416,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
