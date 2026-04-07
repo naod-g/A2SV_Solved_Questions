@@ -34,6 +34,7 @@
 | [0860-lemonade-change](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0942-di-string-match](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0942-di-string-match/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -106,6 +107,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1763-longest-nice-substring](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0475-heaters](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
+| [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -287,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -420,4 +424,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
