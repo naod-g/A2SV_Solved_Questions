@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
@@ -81,6 +82,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -325,6 +327,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0275-h-index-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
