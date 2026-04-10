@@ -16,6 +16,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -108,6 +110,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
@@ -329,6 +332,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0278-first-bad-version/) | Easy |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
