@@ -56,6 +56,7 @@
 | [2381-shifting-letters-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@
 | [1763-longest-nice-substring](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
