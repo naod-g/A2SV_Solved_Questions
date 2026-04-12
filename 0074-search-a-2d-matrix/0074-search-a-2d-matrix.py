@@ -1,19 +1,20 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        flaten = []
-        for row in matrix:
-            flaten.extend(row)
+        n = len(matrix)
+        m = len(matrix[0])
 
-        i = 0
-        j = len(flaten) - 1
+        l = 0
+        r = (n * m) - 1
 
-        while i <= j:
-            mid = (i + j) // 2
+        while l <= r:
+            mid = (l+r) // 2
+            val = matrix[mid // m][mid % m]
 
-            if flaten[mid] == target:
+            if val == target:
                 return True
-            elif flaten[mid] > target:
-                j = mid - 1
+            elif val < target:
+                l = mid + 1
             else:
-                i = mid + 1
+                r = mid - 1
+
         return False
