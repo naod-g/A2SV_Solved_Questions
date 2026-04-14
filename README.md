@@ -23,6 +23,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0330-patching-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0330-patching-array/) | Hard |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0475-heaters](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0486-predict-the-winner](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
@@ -94,6 +95,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -215,6 +217,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0324-wiggle-sort-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0475-heaters](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0475-heaters/) | Medium |
 | [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
