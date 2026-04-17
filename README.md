@@ -380,6 +380,7 @@
 | [0112-path-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0437-path-sum-iii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -396,6 +397,7 @@
 | [0112-path-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0437-path-sum-iii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -411,6 +413,7 @@
 | [0112-path-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0437-path-sum-iii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -430,6 +433,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Quickselect
