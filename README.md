@@ -402,6 +402,7 @@
 | [0572-subtree-of-another-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +430,7 @@
 | [0112-path-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0112-path-sum/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -482,4 +484,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
