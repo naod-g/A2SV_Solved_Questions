@@ -6,16 +6,18 @@ class Solution:
             graph[v].append(u)
             graph[u].append(v)
 
-        def dfs(node, visited):
+        visited = set()
+        
+        def dfs(node):
             if node  == destination:
                 return True
             visited.add(node)
 
             for n in graph[node]:
                 if n not in visited:
-                    if dfs(n, visited):
+                    if dfs(n):
                         return True
-                        
+
             return False
 
-        return dfs(source, set())
+        return dfs(source)
