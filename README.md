@@ -272,6 +272,7 @@
 | [0090-subsets-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0306-additive-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0306-additive-number/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -420,6 +421,7 @@
 | [0463-island-perimeter](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -454,6 +456,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -521,5 +524,6 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
