@@ -19,6 +19,7 @@ class Solution:
 
                     for sub_id in e.subordinates:
                         dfs(sub_id)
+                    break
                     
         dfs(id)
         return res
