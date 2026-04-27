@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0641-design-circular-deque](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0645-set-mismatch](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
+| [0690-employee-importance](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0704-binary-search](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -122,6 +123,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0690-employee-importance](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -399,6 +401,7 @@
 | [0437-path-sum-iii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0437-path-sum-iii/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0690-employee-importance](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -421,6 +424,7 @@
 | [0463-island-perimeter](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0690-employee-importance](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -456,6 +460,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0690-employee-importance](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
