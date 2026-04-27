@@ -14,8 +14,8 @@ class Solution:
         stack = [id]
 
         while stack:
-            i = stack.pop()
-            res += mp[i].importance
-            stack.extend(mp[i].subordinates)
+            e = mp[stack.pop()]
+            res += e.importance
+            stack.extend(e.subordinates)
         return res
         
