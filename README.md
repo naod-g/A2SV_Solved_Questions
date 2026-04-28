@@ -62,6 +62,7 @@
 | [1472-design-browser-history](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -109,6 +110,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +430,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -464,6 +467,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -525,6 +529,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
