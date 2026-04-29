@@ -8,25 +8,20 @@ class Solution:
 
             while q:
                 temp = q.popleft()
-                # print(temp)
                 for j in range(len(bombs)):
                     x,y,r = bombs[j]
-                    if j == i or j in visited:
-                        # print("jumped ",bombs[j])
+                    if j in visited:
                         continue
                     
                     distance = sqrt(
                         ((x - temp[0])**2) + ((y - temp[1])**2)
                     )
-                    # print(bombs[j], bombs[i])
-                    # print("checked ",bombs[j], distance ,bool(distance <= bombs[i][2]))
                     
                     if distance <= temp[2]:
                         count += 1
                         q.append(bombs[j])
                         visited.add(j)
-
-            # print(count)           
+         
             return count
 
         res = 0
