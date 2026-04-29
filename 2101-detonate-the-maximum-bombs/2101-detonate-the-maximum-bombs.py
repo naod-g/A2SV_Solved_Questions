@@ -7,17 +7,16 @@ class Solution:
             count = 1
 
             while q:
-                temp = q.popleft()
+                x1, y1, r1 = q.popleft()
+
                 for j in range(len(bombs)):
-                    x,y,r = bombs[j]
                     if j in visited:
                         continue
                     
-                    distance = sqrt(
-                        ((x - temp[0])**2) + ((y - temp[1])**2)
-                    )
+                    x,y,r = bombs[j]
+                    distance = sqrt(((x - x1)**2) + ((y - y1)**2))
                     
-                    if distance <= temp[2]:
+                    if distance <= r1:
                         count += 1
                         q.append(bombs[j])
                         visited.add(j)
