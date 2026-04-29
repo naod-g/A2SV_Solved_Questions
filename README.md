@@ -275,6 +275,7 @@
 | [0037-sudoku-solver](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
