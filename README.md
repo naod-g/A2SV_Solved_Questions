@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -273,6 +274,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
