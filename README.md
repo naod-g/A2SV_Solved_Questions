@@ -66,6 +66,7 @@
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1598-crawler-log-folder](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
@@ -170,6 +171,7 @@
 | [0877-stone-game](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1922-count-good-numbers](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -433,6 +435,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +474,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,8 +543,13 @@
 | [0210-course-schedule-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 <!---LeetCode Topics End-->
