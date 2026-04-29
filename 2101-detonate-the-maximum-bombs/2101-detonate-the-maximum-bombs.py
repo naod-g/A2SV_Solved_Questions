@@ -3,11 +3,12 @@ class Solution:
         def bfs(i):
             visited = set()
             visited.add(i)
-            q = deque([bombs[i]])
+            q = deque([i])
             count = 1
 
             while q:
-                x1, y1, r1 = q.popleft()
+                a = q.popleft()
+                x1, y1, r1 = bombs[a]
 
                 for j in range(len(bombs)):
                     if j in visited:
@@ -18,7 +19,7 @@ class Solution:
                     
                     if distance <= r1:
                         count += 1
-                        q.append(bombs[j])
+                        q.append(j)
                         visited.add(j)
          
             return count
