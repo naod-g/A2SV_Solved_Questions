@@ -440,6 +440,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +481,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -550,11 +552,13 @@
 | [0797-all-paths-from-source-to-target](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
