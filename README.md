@@ -75,6 +75,7 @@
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2381-shifting-letters-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -333,6 +334,7 @@
 | [0258-add-digits](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
