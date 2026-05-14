@@ -76,6 +76,7 @@
 | [2381-shifting-letters-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -140,6 +141,7 @@
 | [1763-longest-nice-substring](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1763-longest-nice-substring/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -266,6 +268,7 @@
 | [1029-two-city-scheduling](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
