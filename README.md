@@ -183,6 +183,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -539,6 +540,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
