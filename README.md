@@ -184,6 +184,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
@@ -204,6 +205,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@
 | [2139-minimum-moves-to-reach-target-score](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2375-construct-smallest-number-from-di-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
