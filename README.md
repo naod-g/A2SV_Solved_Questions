@@ -99,6 +99,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0641-design-circular-deque](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
@@ -311,6 +312,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0394-decode-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0456-132-pattern](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -324,6 +326,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0641-design-circular-deque](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
