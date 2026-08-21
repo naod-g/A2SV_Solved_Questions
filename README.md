@@ -78,6 +78,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -349,6 +350,7 @@
 | [0657-robot-return-to-origin](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/naod-g/A2SV_Solved_Questions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
